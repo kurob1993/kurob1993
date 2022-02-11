@@ -2,7 +2,7 @@
 - 👀 I’m interested in frontend and backend programming
 - 🌱 I’m currently learning docker, kotlin, and etc
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me email: kurob1993@gmail.com and wa: 087855561244
+- 📫 How to reach me email: kurob1993@gmail.com
 
 <!---
 kurob1993/kurob1993 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
