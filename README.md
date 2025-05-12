@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kurob1993
 - 👀 I’m interested in frontend and backend programming
-- 🌱 I’m currently learning docker, kotlin, and etc
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning php, laravel, flutter, docker, kotlin, and etc
 - 📫 How to reach me email: kurob1993@gmail.com
 
 <!---
